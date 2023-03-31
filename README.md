@@ -1,6 +1,7 @@
 # <div align="center"> Tech stack <div>
 
-I mostly do backend stuff at work, but I'm also interested in frontend and embedded systems.
+I mostly do backend stuff, but I'm also interested in frontend and embedded systems. 
+<br> I've recently found myself an interest for [LLMs](https://en.wikipedia.org/wiki/Large_language_model) and AI.
 
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
